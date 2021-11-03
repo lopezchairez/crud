@@ -1,0 +1,11 @@
+html {
+	overflow-y: scroll;
+}
+
+body {
+	background-color: #efefef;
+}
+
+.marginless {
+	margin: 0;
+}
